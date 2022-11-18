@@ -1,0 +1,76 @@
+h1 {
+    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-style: oblique;
+    ;
+    display: block;
+}
+
+h2 {
+    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p,
+pre {
+    color: inherit;
+    font-size: 200%;
+    font-weight: 800;
+    ;
+}
+
+#fff {
+    text-align: center;
+    color: cadetblue;
+}
+
+#ggg {
+    text-align: center;
+    color: cadetblue;
+}
+
+h2,
+#ree {
+    color: chocolate;
+}
+
+hr {
+    font-weight: 22800px;
+}
+
+a,
+#tel {
+    text-align: right;
+}
+
+#zzz {
+    text-align: center;
+}
+
+body {
+background-repeat: no-repeat; 
+background-size: cover;
+ }
+
+#vvv,
+pre {
+    color: darkgreen;
+}
+
+#dla {
+    color: darkslategray;
+}
+
+#ddd {
+    color: darkslategray;
+}
+
+#ffa {
+    width: 100px;
+    height: 35px;
+}
+.krasiva a {
+    color: black;
+    text-decoration: none;
+}
